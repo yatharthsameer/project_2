@@ -1,17 +1,5 @@
 # project_2
-Other Bookmarks
 
-E17 Lines
-
-(13 stoc)
-
-795 Bytes
-
-Raw
-
-Blame
-
-0
 
 Analysis of the Summer Olympics Data
 
@@ -37,24 +25,3 @@ It analysis some useful information from the given Summer Olympic date and answe
 
 8. Which sport is having most female Gold Medalists? (Top 5)
 
-2021 GitHub, Inc.
-
-Terms
-
-Privacy
-
-Security
-
-Status
-
-Docs
-
-Contact GitHub
-
-Pricing
-
-Training
-
-Blog
-
-About
